@@ -1,0 +1,140 @@
+#EXTM3U
+#EXTINF:-1 ,BTV
+http://stream.amrbd.com:8082/Local-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,T-Sports
+http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,DBC-NEWS
+http://stream.amrbd.com:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ekattor-tv
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Atn-News
+http://stream.amrbd.com:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Independent-Tv
+http://stream.amrbd.com:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Jamuna-TV
+http://stream.amrbd.com:8082/Jamuna-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Somoy-TV
+http://stream.amrbd.com:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,News24bd
+http://stream.amrbd.com:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel24
+http://stream.amrbd.com:8082/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ATN-Bangla
+http://stream.amrbd.com:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Channel-i
+http://stream.amrbd.com:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ekushey-TV
+http://stream.amrbd.com:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ntv
+http://stream.amrbd.com:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,RTV
+http://stream.amrbd.com:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SATV
+http://stream.amrbd.com:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GAZI
+http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,AsianTV
+http://stream.amrbd.com:8082/AsianTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Bangla-TV
+http://stream.amrbd.com:8082/Bangla-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BanglaVision
+http://stream.amrbd.com:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Boishakhi
+http://stream.amrbd.com:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Deepto-TV
+http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,GaanBangla
+http://stream.amrbd.com:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MohonaTV
+http://stream.amrbd.com:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MyTV
+http://stream.amrbd.com:8082/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,anandotv
+http://stream.amrbd.com:8082/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BijoyTv
+http://stream.amrbd.com:8082/BijoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Nagorik Tv
+http://stream.amrbd.com:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Romedy_now
+http://stream.amrbd.com:8082/Romedy_now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MNX
+http://stream.amrbd.com:8082/MNX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Movies Now
+http://stream.amrbd.com:8082/Movies_Now_2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,And-Flix
+http://stream.amrbd.com:8082/And-Flix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,
+http://stream.amrbd.com:8082/kn8a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SonyTVHD
+http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Color HD
+http://stream.amrbd.com:8082/colorsindia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony Max
+http://stream.amrbd.com:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Entert-ten
+http://stream.amrbd.com:8082/Entert-ten/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zoom
+http://stream.amrbd.com:8082/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,B4umuisc
+http://stream.amrbd.com:8082/B4umuisc/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,9xm
+http://stream.amrbd.com:8082/9xm/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Masti-Music
+http://stream.amrbd.com:8082/Masti-Music/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,bflix
+http://stream.amrbd.com:8082/bflix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,
+http://stream.amrbd.com:8082/kn7a/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony_Sab
+http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Animal_Planent
+http://stream.amrbd.com:8082/Animal_Planent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BBC_World
+http://stream.amrbd.com:8082/BBC_World/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Aljazeera
+http://stream.amrbd.com:8082/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Voa_news
+http://stream.amrbd.com:8082/Voa_news/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Times_now
+http://stream.amrbd.com:8082/Times_now/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Dw
+http://stream.amrbd.com:8082/Dw/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,nike
+http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ten1HD
+http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ten2HD
+http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ten3HD
+http://stream.amrbd.com:8082/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports 2
+http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Sports Select
+http://stream.amrbd.com:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,abp
+http://stream.amrbd.com:8082/abp/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Ruposhi-Bangla
+http://stream.amrbd.com:8082/Ruposhi-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Color Bangla
+http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Bangla Cinema
+http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony AATH
+http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Jalsha Movies
+http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Zee Bangla HD
+http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,9X-Jalwa
+http://stream.amrbd.com:8082/9X-Jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZeeCinemaHD
+http://stream.amrbd.com:8082/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,StarGold
+http://stream.amrbd.com:8082/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony-six
+http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
